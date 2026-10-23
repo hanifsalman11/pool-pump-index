@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "pool_name": "Pentair IntelliFlo3 VSF 3.0 HP Variable Speed",
+    "slug": "pentair-intelliflo3-vsf-30-hp-variable-speed-gpm-filter-salt-calculator",
+    "title": "Pentair IntelliFlo3 VSF 3.0 HP Variable Speed GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (52 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (380 sq ft), and salt cell rating for Pentair IntelliFlo3 VSF 3.0 HP Variable Speed.",
+    "gallons": 25000,
+    "gpm": 52,
+    "pump_hp": 3.0,
+    "date": "2026-10-23"
+  },
+  {
+    "pool_name": "Hayward TriStar VS 900 1.85 HP Variable Speed",
+    "slug": "hayward-tristar-vs-900-185-hp-variable-speed-gpm-filter-salt-calculator",
+    "title": "Hayward TriStar VS 900 1.85 HP Variable Speed GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Hayward TriStar VS 900 1.85 HP Variable Speed.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 1.85,
+    "date": "2026-10-23"
+  },
+  {
+    "pool_name": "Hayward Super Pump VS 700 1.65 HP",
+    "slug": "hayward-super-pump-vs-700-165-hp-gpm-filter-salt-calculator",
+    "title": "Hayward Super Pump VS 700 1.65 HP GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (33 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (240 sq ft), and salt cell rating for Hayward Super Pump VS 700 1.65 HP.",
+    "gallons": 16000,
+    "gpm": 33,
+    "pump_hp": 1.65,
+    "date": "2026-10-23"
+  }
+]

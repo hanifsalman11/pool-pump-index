@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PoolPumpIndex Swimming Pool Hydraulics & Salt Sizing Database</title>
+    <link>https://hanifsalman11.github.io/pool-pump-index/</link>
+    <description>Interactive Swimming Pool Pump GPM, Filter Area & Saltwater Chlorinator Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/pool-pump-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>Hayward Super Pump VS 700 1.65 HP GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pool-pump-index/hayward-super-pump-vs-700-165-hp-gpm-filter-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pool-pump-index/hayward-super-pump-vs-700-165-hp-gpm-filter-salt-calculator.html</guid>
+      <description>Calculate exact 8-hour turnover flow rate (33 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (240 sq ft), and salt cell rating for Hayward Super Pump VS 700 1.65 HP.</description>
+    </item>
+    <item>
+      <title>Hayward TriStar VS 900 1.85 HP Variable Speed GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pool-pump-index/hayward-tristar-vs-900-185-hp-variable-speed-gpm-filter-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pool-pump-index/hayward-tristar-vs-900-185-hp-variable-speed-gpm-filter-salt-calculator.html</guid>
+      <description>Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Hayward TriStar VS 900 1.85 HP Variable Speed.</description>
+    </item>
+    <item>
+      <title>Pentair IntelliFlo3 VSF 3.0 HP Variable Speed GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pool-pump-index/pentair-intelliflo3-vsf-30-hp-variable-speed-gpm-filter-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pool-pump-index/pentair-intelliflo3-vsf-30-hp-variable-speed-gpm-filter-salt-calculator.html</guid>
+      <description>Calculate exact 8-hour turnover flow rate (52 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (380 sq ft), and salt cell rating for Pentair IntelliFlo3 VSF 3.0 HP Variable Speed.</description>
+    </item>
+  </channel>
+</rss>

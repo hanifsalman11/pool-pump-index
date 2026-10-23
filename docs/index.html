@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PoolPumpIndex — Swimming Pool Pump GPM, Filter & Salt Chlorinator Calculator (2026)</title>
+  <meta name="description" content="Calculate exact swimming pool 8-hour turnover GPM, PVC pipe flow velocity, cartridge filter square footage, and saltwater chlorinator sizing for Pentair, Hayward, Jandy, and Black+Decker systems.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/pool-pump-index/">
+  <link rel="alternate" type="application/rss+xml" title="PoolPumpIndex RSS Feed" href="https://hanifsalman11.github.io/pool-pump-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-blue-500 text-slate-950 px-2 py-0.5 rounded font-black">POOL</span>PumpIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Variable%2BSpeed%2BPool%2BPump%2B2%2BHP%2BIn%2BGround%2BEnergy%2BStar&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-blue-500 hover:bg-blue-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Variable-Speed Pool Pumps on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Pool Pump GPM, Filter & Salt Chlorinator Sizing Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your pool pump model or pool gallon size below to calculate 8-hour turnover GPM, Schedule 40 PVC pipe limits, cartridge filter area, and 40-lb salt bags required.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search pump model or pool size (e.g. Pentair IntelliFlo3, Hayward TriStar, 20,000 Gallon, Salt Cell...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-blue-500">
+      </div>
+    </div>
+
+    <div id="poolGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="hayward-super-pump-vs-700-165-hp-gpm-filter-salt-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-blue-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-blue-500 text-slate-950 px-2.5 py-0.5 rounded">16,000 Gal | 33 GPM</span>
+            <span class="text-xs text-slate-400">1.65 HP Pump</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-blue-400 transition">Hayward Super Pump VS 700 1.65 HP GPM & Salt Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact 8-hour turnover flow rate (33 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (240 sq ft), and salt cell rating for Hayward Super Pump VS 700 1.65 HP.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-blue-400">Calculate Flow Rate, Filter & Salt →</span>
+        </a>
+        <a href="hayward-tristar-vs-900-185-hp-variable-speed-gpm-filter-salt-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-blue-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-blue-500 text-slate-950 px-2.5 py-0.5 rounded">20,000 Gal | 42 GPM</span>
+            <span class="text-xs text-slate-400">1.85 HP Pump</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-blue-400 transition">Hayward TriStar VS 900 1.85 HP Variable Speed GPM & Salt Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Hayward TriStar VS 900 1.85 HP Variable Speed.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-blue-400">Calculate Flow Rate, Filter & Salt →</span>
+        </a>
+        <a href="pentair-intelliflo3-vsf-30-hp-variable-speed-gpm-filter-salt-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-blue-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-blue-500 text-slate-950 px-2.5 py-0.5 rounded">25,000 Gal | 52 GPM</span>
+            <span class="text-xs text-slate-400">3.0 HP Pump</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-blue-400 transition">Pentair IntelliFlo3 VSF 3.0 HP Variable Speed GPM & Salt Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact 8-hour turnover flow rate (52 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (380 sq ft), and salt cell rating for Pentair IntelliFlo3 VSF 3.0 HP Variable Speed.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-blue-400">Calculate Flow Rate, Filter & Salt →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 PoolPumpIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('poolGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
