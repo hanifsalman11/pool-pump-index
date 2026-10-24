@@ -58,5 +58,35 @@
     "gpm": 25,
     "pump_hp": 1.5,
     "date": "2026-10-24"
+  },
+  {
+    "pool_name": "Jandy ePump 2.7 HP Variable Speed VSSHP270DV2A",
+    "slug": "jandy-epump-27-hp-variable-speed-vsshp270dv2a-gpm-filter-salt-calculator",
+    "title": "Jandy ePump 2.7 HP Variable Speed VSSHP270DV2A GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (58 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (420 sq ft), and salt cell rating for Jandy ePump 2.7 HP Variable Speed VSSHP270DV2A.",
+    "gallons": 28000,
+    "gpm": 58,
+    "pump_hp": 2.7,
+    "date": "2026-10-24"
+  },
+  {
+    "pool_name": "Hayward AquaRite S3 T-Cell-15 40K Gal System",
+    "slug": "hayward-aquarite-s3-t-cell-15-40k-gal-system-gpm-filter-salt-calculator",
+    "title": "Hayward AquaRite S3 T-Cell-15 40K Gal System GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (52 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (380 sq ft), and salt cell rating for Hayward AquaRite S3 T-Cell-15 40K Gal System.",
+    "gallons": 25000,
+    "gpm": 52,
+    "pump_hp": 2.0,
+    "date": "2026-10-24"
+  },
+  {
+    "pool_name": "Pentair IntelliChlor IC40 Salt Chlorinator Cell",
+    "slug": "pentair-intellichlor-ic40-salt-chlorinator-cell-gpm-filter-salt-calculator",
+    "title": "Pentair IntelliChlor IC40 Salt Chlorinator Cell GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (50 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (360 sq ft), and salt cell rating for Pentair IntelliChlor IC40 Salt Chlorinator Cell.",
+    "gallons": 24000,
+    "gpm": 50,
+    "pump_hp": 2.0,
+    "date": "2026-10-24"
   }
 ]
