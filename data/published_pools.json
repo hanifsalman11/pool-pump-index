@@ -28,5 +28,35 @@
     "gpm": 33,
     "pump_hp": 1.65,
     "date": "2026-10-23"
+  },
+  {
+    "pool_name": "Pentair SuperFlo VST 1.5 HP Variable Speed",
+    "slug": "pentair-superflo-vst-15-hp-variable-speed-gpm-filter-salt-calculator",
+    "title": "Pentair SuperFlo VST 1.5 HP Variable Speed GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (31 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (220 sq ft), and salt cell rating for Pentair SuperFlo VST 1.5 HP Variable Speed.",
+    "gallons": 15000,
+    "gpm": 31,
+    "pump_hp": 1.5,
+    "date": "2026-10-24"
+  },
+  {
+    "pool_name": "BLACK+DECKER 2.0 HP Variable Speed Pool Pump",
+    "slug": "blackdecker-20-hp-variable-speed-pool-pump-gpm-filter-salt-calculator",
+    "title": "BLACK+DECKER 2.0 HP Variable Speed Pool Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (46 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (330 sq ft), and salt cell rating for BLACK+DECKER 2.0 HP Variable Speed Pool Pump.",
+    "gallons": 22000,
+    "gpm": 46,
+    "pump_hp": 2.0,
+    "date": "2026-10-24"
+  },
+  {
+    "pool_name": "BLACK+DECKER 1.5 HP Variable Speed Above-Ground",
+    "slug": "blackdecker-15-hp-variable-speed-above-ground-gpm-filter-salt-calculator",
+    "title": "BLACK+DECKER 1.5 HP Variable Speed Above-Ground GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (25 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (180 sq ft), and salt cell rating for BLACK+DECKER 1.5 HP Variable Speed Above-Ground.",
+    "gallons": 12000,
+    "gpm": 25,
+    "pump_hp": 1.5,
+    "date": "2026-10-24"
   }
 ]
