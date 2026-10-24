@@ -118,5 +118,35 @@
     "gpm": 21,
     "pump_hp": 1.5,
     "date": "2026-10-24"
+  },
+  {
+    "pool_name": "15,000 Gallon Residential In-Ground Pool",
+    "slug": "15000-gallon-residential-in-ground-pool-gpm-filter-salt-calculator",
+    "title": "15,000 Gallon Residential In-Ground Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (31 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (220 sq ft), and salt cell rating for 15,000 Gallon Residential In-Ground Pool.",
+    "gallons": 15000,
+    "gpm": 31,
+    "pump_hp": 1.5,
+    "date": "2026-10-24"
+  },
+  {
+    "pool_name": "20,000 Gallon Family In-Ground Swimming Pool",
+    "slug": "20000-gallon-family-in-ground-swimming-pool-gpm-filter-salt-calculator",
+    "title": "20,000 Gallon Family In-Ground Swimming Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for 20,000 Gallon Family In-Ground Swimming Pool.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-24"
+  },
+  {
+    "pool_name": "25,000 Gallon Diving Pool with Spa Spillover",
+    "slug": "25000-gallon-diving-pool-with-spa-spillover-gpm-filter-salt-calculator",
+    "title": "25,000 Gallon Diving Pool with Spa Spillover GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (52 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (380 sq ft), and salt cell rating for 25,000 Gallon Diving Pool with Spa Spillover.",
+    "gallons": 25000,
+    "gpm": 52,
+    "pump_hp": 2.7,
+    "date": "2026-10-24"
   }
 ]
