@@ -238,5 +238,35 @@
     "gpm": 42,
     "pump_hp": 2.0,
     "date": "2026-10-25"
+  },
+  {
+    "pool_name": "PentairWhisperFlo VST 2.6 HP High-Head Pump",
+    "slug": "pentairwhisperflo-vst-26-hp-high-head-pump-gpm-filter-salt-calculator",
+    "title": "PentairWhisperFlo VST 2.6 HP High-Head Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (54 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (390 sq ft), and salt cell rating for PentairWhisperFlo VST 2.6 HP High-Head Pump.",
+    "gallons": 26000,
+    "gpm": 54,
+    "pump_hp": 2.6,
+    "date": "2026-10-25"
+  },
+  {
+    "pool_name": "Doheny's Pool Pro 1.5 HP Variable Speed Pump",
+    "slug": "dohenys-pool-pro-15-hp-variable-speed-pump-gpm-filter-salt-calculator",
+    "title": "Doheny's Pool Pro 1.5 HP Variable Speed Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (31 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (220 sq ft), and salt cell rating for Doheny's Pool Pro 1.5 HP Variable Speed Pump.",
+    "gallons": 15000,
+    "gpm": 31,
+    "pump_hp": 1.5,
+    "date": "2026-10-25"
+  },
+  {
+    "pool_name": "Harris ProForce 1.5 HP Above Ground Pool Pump",
+    "slug": "harris-proforce-15-hp-above-ground-pool-pump-gpm-filter-salt-calculator",
+    "title": "Harris ProForce 1.5 HP Above Ground Pool Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (25 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (180 sq ft), and salt cell rating for Harris ProForce 1.5 HP Above Ground Pool Pump.",
+    "gallons": 12000,
+    "gpm": 25,
+    "pump_hp": 1.5,
+    "date": "2026-10-25"
   }
 ]
