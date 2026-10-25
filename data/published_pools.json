@@ -208,5 +208,35 @@
     "gpm": 51,
     "pump_hp": 2.5,
     "date": "2026-10-25"
+  },
+  {
+    "pool_name": "20x40 Rectangular In-Ground Pool (30,000 Gal)",
+    "slug": "20x40-rectangular-in-ground-pool-30000-gal-gpm-filter-salt-calculator",
+    "title": "20x40 Rectangular In-Ground Pool (30,000 Gal) GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (62 GPM), PVC pipe velocity limit (115 GPM), cartridge filter size (450 sq ft), and salt cell rating for 20x40 Rectangular In-Ground Pool (30,000 Gal).",
+    "gallons": 30000,
+    "gpm": 62,
+    "pump_hp": 3.0,
+    "date": "2026-10-25"
+  },
+  {
+    "pool_name": "Hayward SwimClear C4030 425 Sq Ft Cartridge Filter",
+    "slug": "hayward-swimclear-c4030-425-sq-ft-cartridge-filter-gpm-filter-salt-calculator",
+    "title": "Hayward SwimClear C4030 425 Sq Ft Cartridge Filter GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (54 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (390 sq ft), and salt cell rating for Hayward SwimClear C4030 425 Sq Ft Cartridge Filter.",
+    "gallons": 26000,
+    "gpm": 54,
+    "pump_hp": 2.5,
+    "date": "2026-10-25"
+  },
+  {
+    "pool_name": "Pentair Clean & Clear Plus 320 Sq Ft Filter",
+    "slug": "pentair-clean-clear-plus-320-sq-ft-filter-gpm-filter-salt-calculator",
+    "title": "Pentair Clean & Clear Plus 320 Sq Ft Filter GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Pentair Clean & Clear Plus 320 Sq Ft Filter.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-25"
   }
 ]
