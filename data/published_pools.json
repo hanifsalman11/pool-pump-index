@@ -148,5 +148,35 @@
     "gpm": 52,
     "pump_hp": 2.7,
     "date": "2026-10-24"
+  },
+  {
+    "pool_name": "30,000 Gallon Lagoon Pool with Waterfalls",
+    "slug": "30000-gallon-lagoon-pool-with-waterfalls-gpm-filter-salt-calculator",
+    "title": "30,000 Gallon Lagoon Pool with Waterfalls GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (62 GPM), PVC pipe velocity limit (115 GPM), cartridge filter size (450 sq ft), and salt cell rating for 30,000 Gallon Lagoon Pool with Waterfalls.",
+    "gallons": 30000,
+    "gpm": 62,
+    "pump_hp": 3.0,
+    "date": "2026-10-25"
+  },
+  {
+    "pool_name": "35,000 Gallon Estate Lap & Diving Pool",
+    "slug": "35000-gallon-estate-lap-diving-pool-gpm-filter-salt-calculator",
+    "title": "35,000 Gallon Estate Lap & Diving Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (73 GPM), PVC pipe velocity limit (115 GPM), cartridge filter size (520 sq ft), and salt cell rating for 35,000 Gallon Estate Lap & Diving Pool.",
+    "gallons": 35000,
+    "gpm": 73,
+    "pump_hp": 3.0,
+    "date": "2026-10-25"
+  },
+  {
+    "pool_name": "18-Foot Round Above-Ground Pool (7,600 Gal)",
+    "slug": "18-foot-round-above-ground-pool-7600-gal-gpm-filter-salt-calculator",
+    "title": "18-Foot Round Above-Ground Pool (7,600 Gal) GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (16 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (110 sq ft), and salt cell rating for 18-Foot Round Above-Ground Pool (7,600 Gal).",
+    "gallons": 7600,
+    "gpm": 16,
+    "pump_hp": 1.0,
+    "date": "2026-10-25"
   }
 ]
