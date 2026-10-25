@@ -178,5 +178,35 @@
     "gpm": 16,
     "pump_hp": 1.0,
     "date": "2026-10-25"
+  },
+  {
+    "pool_name": "24-Foot Round Above-Ground Pool (13,500 Gal)",
+    "slug": "24-foot-round-above-ground-pool-13500-gal-gpm-filter-salt-calculator",
+    "title": "24-Foot Round Above-Ground Pool (13,500 Gal) GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (28 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (200 sq ft), and salt cell rating for 24-Foot Round Above-Ground Pool (13,500 Gal).",
+    "gallons": 13500,
+    "gpm": 28,
+    "pump_hp": 1.5,
+    "date": "2026-10-25"
+  },
+  {
+    "pool_name": "16x32 Rectangular In-Ground Pool (19,200 Gal)",
+    "slug": "16x32-rectangular-in-ground-pool-19200-gal-gpm-filter-salt-calculator",
+    "title": "16x32 Rectangular In-Ground Pool (19,200 Gal) GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (40 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (290 sq ft), and salt cell rating for 16x32 Rectangular In-Ground Pool (19,200 Gal).",
+    "gallons": 19200,
+    "gpm": 40,
+    "pump_hp": 2.0,
+    "date": "2026-10-25"
+  },
+  {
+    "pool_name": "18x36 Rectangular In-Ground Pool (24,300 Gal)",
+    "slug": "18x36-rectangular-in-ground-pool-24300-gal-gpm-filter-salt-calculator",
+    "title": "18x36 Rectangular In-Ground Pool (24,300 Gal) GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (51 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (360 sq ft), and salt cell rating for 18x36 Rectangular In-Ground Pool (24,300 Gal).",
+    "gallons": 24300,
+    "gpm": 51,
+    "pump_hp": 2.5,
+    "date": "2026-10-25"
   }
 ]
