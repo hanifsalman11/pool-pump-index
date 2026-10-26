@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/pool-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>6000 Gallon Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pool-pump-index/6000-gallon-pool-gpm-filter-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pool-pump-index/6000-gallon-pool-gpm-filter-salt-calculator.html</guid>
+      <description>Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for 6000 Gallon Pool.</description>
+    </item>
+    <item>
+      <title>40000 Gallon Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pool-pump-index/40000-gallon-pool-gpm-filter-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pool-pump-index/40000-gallon-pool-gpm-filter-salt-calculator.html</guid>
+      <description>Calculate exact 8-hour turnover flow rate (83 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (600 sq ft), and salt cell rating for 40000 Gallon Pool.</description>
+    </item>
+    <item>
+      <title>25000 Gallons GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pool-pump-index/25000-gallons-gpm-filter-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pool-pump-index/25000-gallons-gpm-filter-salt-calculator.html</guid>
+      <description>Calculate exact 8-hour turnover flow rate (52 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (380 sq ft), and salt cell rating for 25000 Gallons.</description>
+    </item>
+    <item>
       <title>20000 Gallon Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/pool-pump-index/20000-gallon-pool-gpm-filter-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pool-pump-index/20000-gallon-pool-gpm-filter-salt-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/pool-pump-index/jandy-epump-27-hp-variable-speed-vsshp270dv2a-gpm-filter-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pool-pump-index/jandy-epump-27-hp-variable-speed-vsshp270dv2a-gpm-filter-salt-calculator.html</guid>
       <description>Calculate exact 8-hour turnover flow rate (58 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (420 sq ft), and salt cell rating for Jandy ePump 2.7 HP Variable Speed VSSHP270DV2A.</description>
-    </item>
-    <item>
-      <title>BLACK+DECKER 1.5 HP Variable Speed Above-Ground GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pool-pump-index/blackdecker-15-hp-variable-speed-above-ground-gpm-filter-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pool-pump-index/blackdecker-15-hp-variable-speed-above-ground-gpm-filter-salt-calculator.html</guid>
-      <description>Calculate exact 8-hour turnover flow rate (25 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (180 sq ft), and salt cell rating for BLACK+DECKER 1.5 HP Variable Speed Above-Ground.</description>
-    </item>
-    <item>
-      <title>BLACK+DECKER 2.0 HP Variable Speed Pool Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pool-pump-index/blackdecker-20-hp-variable-speed-pool-pump-gpm-filter-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pool-pump-index/blackdecker-20-hp-variable-speed-pool-pump-gpm-filter-salt-calculator.html</guid>
-      <description>Calculate exact 8-hour turnover flow rate (46 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (330 sq ft), and salt cell rating for BLACK+DECKER 2.0 HP Variable Speed Pool Pump.</description>
-    </item>
-    <item>
-      <title>Pentair SuperFlo VST 1.5 HP Variable Speed GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pool-pump-index/pentair-superflo-vst-15-hp-variable-speed-gpm-filter-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pool-pump-index/pentair-superflo-vst-15-hp-variable-speed-gpm-filter-salt-calculator.html</guid>
-      <description>Calculate exact 8-hour turnover flow rate (31 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (220 sq ft), and salt cell rating for Pentair SuperFlo VST 1.5 HP Variable Speed.</description>
     </item>
   </channel>
 </rss>
