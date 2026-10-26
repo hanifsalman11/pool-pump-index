@@ -268,5 +268,35 @@
     "gpm": 25,
     "pump_hp": 1.5,
     "date": "2026-10-25"
+  },
+  {
+    "pool_name": "Blue Torrent 2.0 HP Cyclone Variable Speed",
+    "slug": "blue-torrent-20-hp-cyclone-variable-speed-gpm-filter-salt-calculator",
+    "title": "Blue Torrent 2.0 HP Cyclone Variable Speed GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Blue Torrent 2.0 HP Cyclone Variable Speed.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-26"
+  },
+  {
+    "pool_name": "Waterway Champion 2.7 HP Variable Speed Pump",
+    "slug": "waterway-champion-27-hp-variable-speed-pump-gpm-filter-salt-calculator",
+    "title": "Waterway Champion 2.7 HP Variable Speed Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (50 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (360 sq ft), and salt cell rating for Waterway Champion 2.7 HP Variable Speed Pump.",
+    "gallons": 24000,
+    "gpm": 50,
+    "pump_hp": 2.7,
+    "date": "2026-10-26"
+  },
+  {
+    "pool_name": "Jacuzzi J-VSP250 2.5 HP Variable Speed Pump",
+    "slug": "jacuzzi-j-vsp250-25-hp-variable-speed-pump-gpm-filter-salt-calculator",
+    "title": "Jacuzzi J-VSP250 2.5 HP Variable Speed Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (46 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (330 sq ft), and salt cell rating for Jacuzzi J-VSP250 2.5 HP Variable Speed Pump.",
+    "gallons": 22000,
+    "gpm": 46,
+    "pump_hp": 2.5,
+    "date": "2026-10-26"
   }
 ]
