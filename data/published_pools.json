@@ -418,5 +418,35 @@
     "gpm": 42,
     "pump_hp": 2.0,
     "date": "2026-10-27"
+  },
+  {
+    "pool_name": "What  Salt Cell  15000 Gallon Pool",
+    "slug": "what-salt-cell-15000-gallon-pool-gpm-filter-salt-calculator",
+    "title": "What  Salt Cell  15000 Gallon Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (31 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (220 sq ft), and salt cell rating for What  Salt Cell  15000 Gallon Pool.",
+    "gallons": 15000,
+    "gpm": 31,
+    "pump_hp": 1.5,
+    "date": "2026-10-27"
+  },
+  {
+    "pool_name": "What  Salt Cell  20000 Gallon Pool",
+    "slug": "what-salt-cell-20000-gallon-pool-gpm-filter-salt-calculator",
+    "title": "What  Salt Cell  20000 Gallon Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for What  Salt Cell  20000 Gallon Pool.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-27"
+  },
+  {
+    "pool_name": "What  Salt Cell  10000 Gallon Pool",
+    "slug": "what-salt-cell-10000-gallon-pool-gpm-filter-salt-calculator",
+    "title": "What  Salt Cell  10000 Gallon Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (21 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (150 sq ft), and salt cell rating for What  Salt Cell  10000 Gallon Pool.",
+    "gallons": 10000,
+    "gpm": 21,
+    "pump_hp": 1.5,
+    "date": "2026-10-27"
   }
 ]
