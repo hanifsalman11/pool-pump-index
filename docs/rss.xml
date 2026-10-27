@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/pool-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Is My Pool Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pool-pump-index/is-my-pool-pump-gpm-filter-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pool-pump-index/is-my-pool-pump-gpm-filter-salt-calculator.html</guid>
+      <description>Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Is My Pool Pump.</description>
+    </item>
+    <item>
+      <title>Pool Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pool-pump-index/pool-pump-gpm-filter-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pool-pump-index/pool-pump-gpm-filter-salt-calculator.html</guid>
+      <description>Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Pool Pump.</description>
+    </item>
+    <item>
+      <title>12000 Gallons GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pool-pump-index/12000-gallons-gpm-filter-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pool-pump-index/12000-gallons-gpm-filter-salt-calculator.html</guid>
+      <description>Calculate exact 8-hour turnover flow rate (25 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (180 sq ft), and salt cell rating for 12000 Gallons.</description>
+    </item>
+    <item>
       <title>5000 Gallon Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/pool-pump-index/5000-gallon-pool-gpm-filter-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pool-pump-index/5000-gallon-pool-gpm-filter-salt-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/pool-pump-index/15000-gallon-residential-in-ground-pool-gpm-filter-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pool-pump-index/15000-gallon-residential-in-ground-pool-gpm-filter-salt-calculator.html</guid>
       <description>Calculate exact 8-hour turnover flow rate (31 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (220 sq ft), and salt cell rating for 15,000 Gallon Residential In-Ground Pool.</description>
-    </item>
-    <item>
-      <title>10,000 Gallon Plunge & Cocktail Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pool-pump-index/10000-gallon-plunge-cocktail-pool-gpm-filter-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pool-pump-index/10000-gallon-plunge-cocktail-pool-gpm-filter-salt-calculator.html</guid>
-      <description>Calculate exact 8-hour turnover flow rate (21 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (150 sq ft), and salt cell rating for 10,000 Gallon Plunge & Cocktail Pool.</description>
-    </item>
-    <item>
-      <title>Intex Krystal Clear 3000 GPH Sand Filter Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pool-pump-index/intex-krystal-clear-3000-gph-sand-filter-pump-gpm-filter-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pool-pump-index/intex-krystal-clear-3000-gph-sand-filter-pump-gpm-filter-salt-calculator.html</guid>
-      <description>Calculate exact 8-hour turnover flow rate (21 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (150 sq ft), and salt cell rating for Intex Krystal Clear 3000 GPH Sand Filter Pump.</description>
-    </item>
-    <item>
-      <title>CircuPool RJ-45 Plus Saltwater Chlorinator GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pool-pump-index/circupool-rj-45-plus-saltwater-chlorinator-gpm-filter-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pool-pump-index/circupool-rj-45-plus-saltwater-chlorinator-gpm-filter-salt-calculator.html</guid>
-      <description>Calculate exact 8-hour turnover flow rate (52 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (380 sq ft), and salt cell rating for CircuPool RJ-45 Plus Saltwater Chlorinator.</description>
     </item>
   </channel>
 </rss>

@@ -388,5 +388,35 @@
     "gpm": 42,
     "pump_hp": 2.0,
     "date": "2026-10-27"
+  },
+  {
+    "pool_name": "12000 Gallons",
+    "slug": "12000-gallons-gpm-filter-salt-calculator",
+    "title": "12000 Gallons GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (25 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (180 sq ft), and salt cell rating for 12000 Gallons.",
+    "gallons": 12000,
+    "gpm": 25,
+    "pump_hp": 1.5,
+    "date": "2026-10-27"
+  },
+  {
+    "pool_name": "Pool Pump",
+    "slug": "pool-pump-gpm-filter-salt-calculator",
+    "title": "Pool Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Pool Pump.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-27"
+  },
+  {
+    "pool_name": "Is My Pool Pump",
+    "slug": "is-my-pool-pump-gpm-filter-salt-calculator",
+    "title": "Is My Pool Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Is My Pool Pump.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-27"
   }
 ]
