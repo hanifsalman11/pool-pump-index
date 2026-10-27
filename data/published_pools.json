@@ -448,5 +448,35 @@
     "gpm": 21,
     "pump_hp": 1.5,
     "date": "2026-10-27"
+  },
+  {
+    "pool_name": "What  Salt Cell Do I Need",
+    "slug": "what-salt-cell-do-i-need-gpm-filter-salt-calculator",
+    "title": "What  Salt Cell Do I Need GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for What  Salt Cell Do I Need.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-27"
+  },
+  {
+    "pool_name": "What  Hayward Salt Cell Do I Need",
+    "slug": "what-hayward-salt-cell-do-i-need-gpm-filter-salt-calculator",
+    "title": "What  Hayward Salt Cell Do I Need GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for What  Hayward Salt Cell Do I Need.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-27"
+  },
+  {
+    "pool_name": "Salt Cell Settings",
+    "slug": "salt-cell-settings-gpm-filter-salt-calculator",
+    "title": "Salt Cell Settings GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Salt Cell Settings.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-27"
   }
 ]
