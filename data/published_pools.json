@@ -508,5 +508,35 @@
     "gpm": 42,
     "pump_hp": 2.0,
     "date": "2026-10-28"
+  },
+  {
+    "pool_name": "Vsf Manual",
+    "slug": "vsf-manual-gpm-filter-salt-calculator",
+    "title": "Vsf Manual GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Vsf Manual.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-28"
+  },
+  {
+    "pool_name": "3 3Hp",
+    "slug": "3-3hp-gpm-filter-salt-calculator",
+    "title": "3 3Hp GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for 3 3Hp.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-28"
+  },
+  {
+    "pool_name": "3 Vsf Manual Pdf",
+    "slug": "3-vsf-manual-pdf-gpm-filter-salt-calculator",
+    "title": "3 Vsf Manual Pdf GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for 3 Vsf Manual Pdf.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-28"
   }
 ]
