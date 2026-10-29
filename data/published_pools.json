@@ -548,5 +548,15 @@
     "gpm": 42,
     "pump_hp": 2.0,
     "date": "2026-10-28"
+  },
+  {
+    "pool_name": "Manual",
+    "slug": "manual-gpm-filter-salt-calculator",
+    "title": "Manual GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Manual.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-10-29"
   }
 ]
