@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/pool-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Pro3 Vsf GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/pool-pump-index/pro3-vsf-gpm-filter-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/pool-pump-index/pro3-vsf-gpm-filter-salt-calculator.html</guid>
+      <description>Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Pro3 Vsf.</description>
+    </item>
+    <item>
       <title>Manual GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/pool-pump-index/manual-gpm-filter-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pool-pump-index/manual-gpm-filter-salt-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/pool-pump-index/blue-torrent-20-hp-cyclone-variable-speed-gpm-filter-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/pool-pump-index/blue-torrent-20-hp-cyclone-variable-speed-gpm-filter-salt-calculator.html</guid>
       <description>Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Blue Torrent 2.0 HP Cyclone Variable Speed.</description>
-    </item>
-    <item>
-      <title>Harris ProForce 1.5 HP Above Ground Pool Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/pool-pump-index/harris-proforce-15-hp-above-ground-pool-pump-gpm-filter-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/pool-pump-index/harris-proforce-15-hp-above-ground-pool-pump-gpm-filter-salt-calculator.html</guid>
-      <description>Calculate exact 8-hour turnover flow rate (25 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (180 sq ft), and salt cell rating for Harris ProForce 1.5 HP Above Ground Pool Pump.</description>
     </item>
   </channel>
 </rss>
