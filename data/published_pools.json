@@ -568,5 +568,15 @@
     "gpm": 42,
     "pump_hp": 2.0,
     "date": "2026-10-30"
+  },
+  {
+    "pool_name": "Pentair WhisperFlo VST 2.6 HP High-Head Pump",
+    "slug": "pentair-whisperflo-vst-26-hp-high-head-pump-gpm-filter-salt-calculator",
+    "title": "Pentair WhisperFlo VST 2.6 HP High-Head Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (54 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (390 sq ft), and salt cell rating for Pentair WhisperFlo VST 2.6 HP High-Head Pump.",
+    "gallons": 26000,
+    "gpm": 54,
+    "pump_hp": 2.6,
+    "date": "2026-11-02"
   }
 ]
