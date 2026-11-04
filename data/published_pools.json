@@ -578,5 +578,15 @@
     "gpm": 54,
     "pump_hp": 2.6,
     "date": "2026-11-02"
+  },
+  {
+    "pool_name": "50000 Litre Pool",
+    "slug": "50000-litre-pool-gpm-filter-salt-calculator",
+    "title": "50000 Litre Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (104 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (750 sq ft), and salt cell rating for 50000 Litre Pool.",
+    "gallons": 50000,
+    "gpm": 104,
+    "pump_hp": 3.0,
+    "date": "2026-11-04"
   }
 ]
