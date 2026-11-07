@@ -588,5 +588,15 @@
     "gpm": 104,
     "pump_hp": 3.0,
     "date": "2026-11-04"
+  },
+  {
+    "pool_name": "3 Vsf 1.5 Hp",
+    "slug": "3-vsf-15-hp-gpm-filter-salt-calculator",
+    "title": "3 Vsf 1.5 Hp GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for 3 Vsf 1.5 Hp.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-11-07"
   }
 ]
