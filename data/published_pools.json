@@ -598,5 +598,15 @@
     "gpm": 42,
     "pump_hp": 2.0,
     "date": "2026-11-07"
+  },
+  {
+    "pool_name": "10000 Gallons",
+    "slug": "10000-gallons-gpm-filter-salt-calculator",
+    "title": "10000 Gallons GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (21 GPM), PVC pipe velocity limit (42 GPM), cartridge filter size (150 sq ft), and salt cell rating for 10000 Gallons.",
+    "gallons": 10000,
+    "gpm": 21,
+    "pump_hp": 1.5,
+    "date": "2026-11-08"
   }
 ]
