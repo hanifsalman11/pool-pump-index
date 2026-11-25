@@ -608,5 +608,25 @@
     "gpm": 21,
     "pump_hp": 1.5,
     "date": "2026-11-08"
+  },
+  {
+    "pool_name": "60000 Litre Pool",
+    "slug": "60000-litre-pool-gpm-filter-salt-calculator",
+    "title": "60000 Litre Pool GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (125 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (900 sq ft), and salt cell rating for 60000 Litre Pool.",
+    "gallons": 60000,
+    "gpm": 125,
+    "pump_hp": 3.0,
+    "date": "2026-11-25"
+  },
+  {
+    "pool_name": "Do I Know What  Pool Pump I Need",
+    "slug": "do-i-know-what-pool-pump-i-need-gpm-filter-salt-calculator",
+    "title": "Do I Know What  Pool Pump I Need GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for Do I Know What  Pool Pump I Need.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-11-25"
   }
 ]
