@@ -628,5 +628,35 @@
     "gpm": 42,
     "pump_hp": 2.0,
     "date": "2026-11-25"
+  },
+  {
+    "pool_name": "8000 Gallons",
+    "slug": "8000-gallons-gpm-filter-salt-calculator",
+    "title": "8000 Gallons GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for 8000 Gallons.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-11-26"
+  },
+  {
+    "pool_name": "What  Pool Pump",
+    "slug": "what-pool-pump-gpm-filter-salt-calculator",
+    "title": "What  Pool Pump GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for What  Pool Pump.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-11-26"
+  },
+  {
+    "pool_name": "What  Pond Pump  Waterfall",
+    "slug": "what-pond-pump-waterfall-gpm-filter-salt-calculator",
+    "title": "What  Pond Pump  Waterfall GPM Flow Rate, Filter & Salt Cell Calculator (2026)",
+    "description": "Calculate exact 8-hour turnover flow rate (42 GPM), PVC pipe velocity limit (73 GPM), cartridge filter size (300 sq ft), and salt cell rating for What  Pond Pump  Waterfall.",
+    "gallons": 20000,
+    "gpm": 42,
+    "pump_hp": 2.0,
+    "date": "2026-11-26"
   }
 ]
